@@ -1,2 +1,2 @@
-# ydk-to-tcgplayer-mass-entry-url
-test
+# ydk to tcg mass entry url
+.ydk files go here
