@@ -1,2 +1,2 @@
 # ydk to tcg mass entry url
-Take .ydk files and build a url for mass import to the tcgplayer shopping cart
+Take .ydk files and build a url for entry to the tcgplayer shopping cart
