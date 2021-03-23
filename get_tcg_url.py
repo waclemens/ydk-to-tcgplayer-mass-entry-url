@@ -30,7 +30,7 @@ card_data = json.loads(result.text)
 card_string = ''
 for el in card_data['data']:
 	card_id = str(el['id'])
-	while len(card_id) < 8:
+	while not count_ids[card_id]:
 		card_id = '0' + card_id
 	card_string += '||' + str(count_ids[card_id]) + el['name']
 
